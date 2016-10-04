@@ -2,3 +2,4 @@ Ceci est un texte.
 Une autre ligne de modification.
 Elie Francis
 C'est moi.
+Modif à partir d'éclipse
